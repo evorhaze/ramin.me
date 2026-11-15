@@ -47,9 +47,6 @@ A minimalist personal website for publishing my articles and thoughts. Built wit
    ```bash
    python manage.py runserver
    ```
-
-The site will be available at http://127.0.0.1:8000/
-
 ---
 
 Created by Ramin Kiyamov  
